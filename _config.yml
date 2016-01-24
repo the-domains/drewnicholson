@@ -1,6 +1,6 @@
 name: DrewNicholson
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.50334
 typography_spectrum: 0.49499
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.7993372203782201
+  brandStrength: 0.6875
   lightness: 0.3663938231766224
   saturation: 0.062403761548921466
   rhythmicContrast: 0.25
