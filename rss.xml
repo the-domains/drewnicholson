@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[DrewNicholson]]></title>
+        <description><![CDATA[DrewNicholson]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 24 Jan 2016 06:00:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Learning the Grid]]></title>
+            <description><![CDATA[<article><h1>Learning the Grid</h1><p>The Grid</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/642fd58942fed54a48427a95a9c566a65f6038f9.jpg"></article>]]></description>
+            <link>undefinedlearning-the-grid/index.html</link>
+            <guid isPermaLink="false">112935fa-730a-4445-bc7a-2747f28667fd</guid>
+            <pubDate>Sun, 24 Jan 2016 06:00:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
