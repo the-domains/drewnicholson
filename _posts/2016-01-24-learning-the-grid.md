@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: a first post
-datePublished: '2016-01-24T06:00:43.410Z'
-dateModified: '2016-01-24T06:00:20.360Z'
+datePublished: '2016-03-05T20:07:12.768Z'
+dateModified: '2016-03-05T20:07:12.455Z'
 title: Learning the Grid
 author: []
+sourcePath: _posts/2016-01-24-learning-the-grid.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-24-learning-the-grid.md
-published: true
 url: learning-the-grid/index.html
 _type: Article
 
